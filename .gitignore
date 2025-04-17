@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+
+# Bytecode/cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and misc
+*.log
